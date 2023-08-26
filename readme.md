@@ -122,3 +122,15 @@
   ```json
   { "status": "success" }
   ```
+
+# Executando o servidor
+
+- Certifique-se de ter o Go instalado em sua máquina.
+
+1 - Clone este repositório.
+
+2 - Abra um terminal e navegue até a pasta do projeto.
+
+3 - Execute o seguinte comando para iniciar o servidor: `go run main.go`
+
+O servidor estará disponível em `localhost:3030/`
